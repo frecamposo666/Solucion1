@@ -11,6 +11,7 @@ namespace Consola
         static void Main(string[] args)
         {
             Console.WriteLine("ok");
+            Console.WriteLine("hola ");
             Console.ReadKey();
         }
     }
